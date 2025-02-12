@@ -60,7 +60,8 @@ This section focuses on Git workflows and collaboration techniques:
 4. Follow the instructions in the PDFs to understand and implement Git concepts.
 
 ✅ Prerequisites
-Git installed on your system: Git Installation Guide
-A GitHub account for practical implementation.
+1. Git installed on your system: Git Installation Guide
+2. A GitHub account for practical implementation.
+
 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this repository. ✨
+^_~ Contributions are welcome! Feel free to open issues or submit pull requests to improve this repository. ✨
