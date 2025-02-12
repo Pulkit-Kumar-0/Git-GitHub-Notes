@@ -64,4 +64,5 @@ This section focuses on Git workflows and collaboration techniques:
 2. A GitHub account for practical implementation.
 
 🤝 Contributing
+
 ^_~ Contributions are welcome! Feel free to open issues or submit pull requests to improve this repository. ✨
